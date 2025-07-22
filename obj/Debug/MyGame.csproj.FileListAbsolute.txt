@@ -1,0 +1,10 @@
+C:\Users\ivano\source\repos\MyGame\bin\Debug\MyGame.exe.config
+C:\Users\ivano\source\repos\MyGame\bin\Debug\MyGame.exe
+C:\Users\ivano\source\repos\MyGame\bin\Debug\MyGame.pdb
+C:\Users\ivano\source\repos\MyGame\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\ivano\source\repos\MyGame\obj\Debug\MyGame.FlappyBird.resources
+C:\Users\ivano\source\repos\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+C:\Users\ivano\source\repos\MyGame\obj\Debug\MyGame.csproj.GenerateResource.cache
+C:\Users\ivano\source\repos\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\ivano\source\repos\MyGame\obj\Debug\MyGame.exe
+C:\Users\ivano\source\repos\MyGame\obj\Debug\MyGame.pdb
